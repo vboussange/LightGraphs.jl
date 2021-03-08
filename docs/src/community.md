@@ -20,6 +20,7 @@ Pages   = [
     "community/modularity.jl",
     "community/assortativity.jl"
     "community/rich_club.jl"
+    "community/s_metric.jl"
 ]
 Private = false
 ```
